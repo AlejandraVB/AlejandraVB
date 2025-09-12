@@ -1,4 +1,4 @@
-## <h2 align="center">Hola a todos, soy Alejandra ✨</h2> 
+## <h2 align="center">Hola, soy Alejandra Velez✨</h2> 
 
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/278705ba-15e3-486e-b2a4-04ea03db617e" />
 
@@ -8,5 +8,23 @@
 
 🔧 También he trabajado en automatización con Selenium/Python y validación de datos en entornos SQL.
 
-✨ Apasionada por la mejora continua, la colaboración en equipo y asegurar productos de calidad.
+## 🌟 Acerca de mi:
+📍 Bogotá, Colombia
+💼 Actualmente Especialista en Soporte Técnico en Foundever, enfocada en la resolución efectiva de problemas de clientes.
+📚 Me encanta aprender y crecer profesionalmente cada día.
+✨ Apasionada por la mejora continua, el trabajo en equipo y asegurar productos de calidad.
 
+## ⚙️ Habilidades Técnicas:
+- Pruebas Manuales y automatizadas
+- **Testing APIs**: Postman
+- **Analisis de datos y reportes**: SQL, Excel avanzado, Jira, Power BI, Tableau
+- Python
+- **Control y Optimización de procesos**: Aspen Hysys, Matlab, CRM Salesforce
+## ✅ Proyectos recientes : 
+1. Urban Routes
+2. Urban Lunch
+3. Urban Scooter
+4. Urban Grocers
+## 📞 Contáctame: 
+📩 **Email:** vmaleja89@gmail.com
+📲 **Telefóno:** +57 3206747179
