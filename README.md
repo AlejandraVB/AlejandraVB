@@ -21,10 +21,13 @@
 - Python
 - **Control y Optimización de procesos**: Aspen Hysys, Matlab, CRM Salesforce
 ## ✅ Proyectos recientes : 
-1. Urban Routes
-2. Urban Lunch
-3. Urban Scooter
-4. Urban Grocers
+1. [🚘 Urban Routes](https://github.com/AlejandraVB/qa-project-Urban-Routes-es)  
+2. [🍔 Urban Lunch](https://github.com/AlejandraVB/QA_UrbanLunch_PruebasUI)  
+3. [🛴 Urban Scooter](https://github.com/AlejandraVB/QA_UrbanScooter_PruebasFuncionales_UI)  
+4. [🛒 Urban Grocers](https://github.com/AlejandraVB/qa-project-Urban-Grocers-app-es)  
 ## 📞 Contáctame: 
 📩 **Email:** vmaleja89@gmail.com
+
 📲 **Telefóno:** +57 3206747179
+
+[🔗LinkedIn](www.linkedin.com/in/alejandravelez-qaengineer)
