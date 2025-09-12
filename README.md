@@ -1,8 +1,10 @@
-## <h2 align="center">Hi there , I am Alejandra 👋</h2> 
+## <h2 align="center">Hola a todos, soy Alejandra ✨</h2> 
 
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/278705ba-15e3-486e-b2a4-04ea03db617e" />
 
 
-## About me: 
-🔭 QA Engineer with a background in Chemical Engineering, combining strong analytical skills from industrial quality control with hands-on experience in software testing. My expertise includes manual functional, integration, and regression testing, API validation with Postman, SQL queries, and defect management in JIRA within Agile/Scrum environments.
+## 
+🔭 QA Engineer con background en Ingeniería Química. Combino pensamiento analítico con experiencia en pruebas manuales (funcionales, integración, regresión), validación de APIs con Postman, SQL y gestión de defectos en JIRA bajo metodologías Agile/Scrum.
+🔧 También he trabajado en automatización con Selenium/Python y validación de datos en entornos SQL.
+✨ Apasionada por la mejora continua, la colaboración en equipo y asegurar productos de calidad.
 
