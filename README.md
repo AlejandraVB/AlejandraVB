@@ -21,10 +21,10 @@
 - Python
 - **Control y Optimización de procesos**: Aspen Hysys, Matlab, CRM Salesforce
 ## ✅ Proyectos recientes : 
-1. [🚘 Urban Routes](https://github.com/AlejandraVB/qa-project-Urban-Routes-es)  
-2. [🍔 Urban Lunch](https://github.com/AlejandraVB/QA_UrbanLunch_PruebasUI)  
-3. [🛴 Urban Scooter](https://github.com/AlejandraVB/QA_UrbanScooter_PruebasFuncionales_UI)  
-4. [🛒 Urban Grocers](https://github.com/AlejandraVB/qa-project-Urban-Grocers-app-es)  
+1. 🚘 [![Urban Routes](https://img.shields.io/badge/Urban%20Routes-Project-blue?style=for-the-badge)](https://github.com/AlejandraVB/qa-project-Urban-Routes-es)  
+2. 🍔 [![Urban Lunch](https://img.shields.io/badge/Urban%20Lunch-Project-green?style=for-the-badge)](https://github.com/AlejandraVB/QA_UrbanLunch_PruebasUI)  
+3. 🛴 [![Urban Scooter](https://img.shields.io/badge/Urban%20Scooter-Project-orange?style=for-the-badge)](https://github.com/AlejandraVB/QA_UrbanScooter_PruebasFuncionales_UI)  
+4. 🛒 [![Urban Grocers](https://img.shields.io/badge/Urban%20Grocers-Project-red?style=for-the-badge)](https://github.com/AlejandraVB/qa-project-Urban-Grocers-app-es)  
 ## 📞 Contáctame: 
 📩 **Email:** vmaleja89@gmail.com
 
