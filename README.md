@@ -21,6 +21,7 @@
 - Python
 - **Control y Optimización de procesos**: Aspen Hysys, Matlab, CRM Salesforce
 ## ✅ Proyectos recientes : 
+Selecciona el proyecto para conocer más de él 🤩
 1. 🚘 [![Urban Routes](https://img.shields.io/badge/Urban%20Routes-blue?style=for-the-badge)](https://github.com/AlejandraVB/qa-project-Urban-Routes-es)
 2. 🍔 [![Urban Lunch](https://img.shields.io/badge/Urban%20Lunch-green?style=for-the-badge)](https://github.com/AlejandraVB/QA_UrbanLunch_PruebasUI)  
 3. 🛴 [![Urban Scooter](https://img.shields.io/badge/Urban%20Scooter-orange?style=for-the-badge)](https://github.com/AlejandraVB/QA_UrbanScooter_PruebasFuncionales_UI) 
