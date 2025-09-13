@@ -10,8 +10,11 @@
 
 ## 🌟 Acerca de mi:
 📍 Bogotá, Colombia
+
 💼 Actualmente Especialista en Soporte Técnico en Foundever, enfocada en la resolución efectiva de problemas de clientes.
+
 📚 Me encanta aprender y crecer profesionalmente cada día.
+
 ✨ Apasionada por la mejora continua, el trabajo en equipo y asegurar productos de calidad.
 
 ## ⚙️ Habilidades Técnicas:
