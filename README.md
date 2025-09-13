@@ -1,7 +1,7 @@
-## <h2 align="center">Hola, soy Alejandra Velez✨</h2> 
 
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/278705ba-15e3-486e-b2a4-04ea03db617e" />
+<img width="1584" height="396" alt="Banner LinkedIn (2)" src="https://github.com/user-attachments/assets/8871b063-8698-4960-a340-85efce79b548" />
 
+## <h2 align="center">Bienvenido a mi Github, soy Alejandra Velez✨</h2> 
 
 ## 
 🔭 QA Engineer con background en Ingeniería Química. Combino pensamiento analítico con experiencia en pruebas manuales (funcionales, integración, regresión), validación de APIs con Postman, SQL y gestión de defectos en JIRA bajo metodologías Agile/Scrum.
