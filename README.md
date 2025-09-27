@@ -1,5 +1,6 @@
 
-<img width="1584" height="396" alt="Banner LinkedIn (2)" src="https://github.com/user-attachments/assets/8871b063-8698-4960-a340-85efce79b548" />
+<img width="1584" height="396" alt="Banner LinkedIn (3)" src="https://github.com/user-attachments/assets/8f4817f3-b804-4393-a879-d53702206a5a" />
+
 
 ## <h2 align="center">Bienvenido a mi Github, soy Alejandra Velez✨</h2> 
 
