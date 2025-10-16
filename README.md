@@ -30,7 +30,7 @@ Selecciona el proyecto para conocer más de él 🤩
 2. 🍔 [![Urban Lunch](https://img.shields.io/badge/Urban%20Lunch-green?style=for-the-badge)](https://github.com/AlejandraVB/QA_UrbanLunch_PruebasUI)  
 3. 🛴 [![Urban Scooter](https://img.shields.io/badge/Urban%20Scooter-orange?style=for-the-badge)](https://github.com/AlejandraVB/QA_UrbanScooter_PruebasFuncionales_UI) 
 4. 🛒 [![Urban Grocers](https://img.shields.io/badge/Urban%20Grocers-red?style=for-the-badge)](https://github.com/AlejandraVB/qa-project-Urban-Grocers-app-es)
-5. 🧪 [![Swag Labs](https://img.shields.io/badge/Urban%20Grocers-red?style=for-the-badge)](https://github.com/AlejandraVB/QA-Swaglabs-Pruebas-Manuales/blob/main/README.md)
+5. 🧪 [![Swag Labs](https://img.shields.io/badge/Swag%20Labs-red?style=for-the-badge)](https://github.com/AlejandraVB/QA-Swaglabs-Pruebas-Manuales/blob/main/README.md)
 ## 📞 Contáctame: 
 📩 **Email:** vmaleja89@gmail.com
 
